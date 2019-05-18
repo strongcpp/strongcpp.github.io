@@ -4,6 +4,11 @@ title: About
 permalink: /about/
 ---
 
+Practical software construction techniques that maximize correctness
+without sacrificing performance.
+
+### About me
+
 My professional experience encompasses:
 
   * C (audio/video applications and device drivers)
