@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My professional experience encompasses:
 
-### More Information
+  * C (audio/video applications and device drivers)
+  emphasizing low-level access to hardware and number-crunching
+  with inline assembly and GPU
 
-A place to include any other types of information that you'd like to include about yourself.
+  * Haskell (quantitative trading and consensus protocols) emphasizing correctness
+
+  * C++ (high-frequency trading) emphasizing performance
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[conrad@metadecks.org](mailto:conrad@metadecks.org)
